@@ -1,0 +1,388 @@
+Generation: 1   String: c &Prg=oeeM[@C[ctP
+E       Fitness: 17
+Generation: 2   String: c &Prg=oeeM[@C[ctP
+E       Fitness: 17
+Generation: 3   String: I=)cv=0gewTWklrk0X4k    Fitness: 16
+Generation: 4   String: I=)cv=0gewTWklrk0X4k    Fitness: 16
+Generation: 5   String: c h2vf3 eev%=EXcXe
+d       Fitness: 15
+Generation: 6   String: c h2vf3 eev%=EXcXe
+d       Fitness: 15
+Generation: 7   String: Ij:sM5 Week=j3xUweu%    Fitness: 14
+Generation: 8   String: I 6sMH WgeksjGT,weu%    Fitness: 13
+Generation: 9   String: I hsvH WeeksjGh,Xe5d    Fitness: 11
+Generation: 10  String: I hsvH WeeksjGh,Xe5d    Fitness: 11
+Generation: 11  String: I hsvH WeeksjGh,Xe5d    Fitness: 11
+Generation: 12  String: I )fMe ?eeksflr1tY4W    Fitness: 10
+Generation: 13  String: I ssvf oeeksflr6weJ;    Fitness: 9
+Generation: 14  String: I ssvf oeeksflr6weJ;    Fitness: 9
+Generation: 15  String: I 6sve Jeeksflr,peuE    Fitness: 8
+Generation: 16  String: I 6sve Jeeksflr,peuE    Fitness: 8
+Generation: 17  String: I 6sve Jeeksflr,peuE    Fitness: 8
+Generation: 18  String: I &,ve oeeksf2rGte8-    Fitness: 7
+Generation: 19  String: I &,ve oeeksf2rGte8-    Fitness: 7
+Generation: 20  String: I &,ve oeeksf2rGte8-    Fitness: 7
+Generation: 21  String: I &,ve oeeksf2rGte8-    Fitness: 7
+Generation: 22  String: I &,ve oeeksf2rGte8-    Fitness: 7
+Generation: 23  String: I 6sve ceeksfGrGeet=    Fitness: 6
+Generation: 24  String: I 6sve ceeksfGrGeet=    Fitness: 6
+Generation: 25  String: I &,ve oeeksforGDek-    Fitness: 5
+Generation: 26  String: I &,ve oeeksforGDek-    Fitness: 5
+Generation: 27  String: I &sve ceeksforGeekE    Fitness: 4
+Generation: 28  String: I &sve ceeksforGeekE    Fitness: 4
+Generation: 29  String: I &sve ceeksforGeekE    Fitness: 4
+Generation: 30  String: I &sve ceeksforGeekE    Fitness: 4
+Generation: 31  String: I &sve ceeksforGeekE    Fitness: 4
+Generation: 32  String: I &sve ceeksforGeekE    Fitness: 4
+Generation: 33  String: I &sve ceeksforGeekE    Fitness: 4
+Generation: 34  String: I &sve ceeksforGeekE    Fitness: 4
+Generation: 35  String: I &}ve GeeksforGeek
+        Fitness: 3
+Generation: 36  String: I &}ve GeeksforGeek
+        Fitness: 3
+Generation: 37  String: I &}ve GeeksforGeek
+        Fitness: 3
+Generation: 38  String: I &}ve GeeksforGeek
+        Fitness: 3
+Generation: 39  String: I &}ve GeeksforGeek
+        Fitness: 3
+Generation: 40  String: I &}ve GeeksforGeek
+        Fitness: 3
+Generation: 41  String: I &}ve GeeksforGeek
+        Fitness: 3
+Generation: 42  String: I &}ve GeeksforGeek
+        Fitness: 3
+Generation: 43  String: I &}ve GeeksforGeek
+        Fitness: 3
+Generation: 44  String: I &}ve GeeksforGeek
+        Fitness: 3
+Generation: 45  String: I &}ve GeeksforGeek
+        Fitness: 3
+Generation: 46  String: I &}ve GeeksforGeek
+        Fitness: 3
+Generation: 47  String: I &}ve GeeksforGeek
+        Fitness: 3
+Generation: 48  String: I &}ve GeeksforGeek
+        Fitness: 3
+Generation: 49  String: I &}ve GeeksforGeek
+        Fitness: 3
+Generation: 50  String: I &}ve GeeksforGeek
+        Fitness: 3
+Generation: 51  String: I &}ve GeeksforGeek
+        Fitness: 3
+Generation: 52  String: I &}ve GeeksforGeek
+        Fitness: 3
+Generation: 53  String: I &}ve GeeksforGeek
+        Fitness: 3
+Generation: 54  String: I &}ve GeeksforGeek
+        Fitness: 3
+Generation: 55  String: I &}ve GeeksforGeek
+        Fitness: 3
+Generation: 56  String: I &}ve GeeksforGeek
+        Fitness: 3
+Generation: 57  String: I &}ve GeeksforGeek
+        Fitness: 3
+Generation: 58  String: I &}ve GeeksforGeek
+        Fitness: 3
+Generation: 59  String: I &}ve GeeksforGeek
+        Fitness: 3
+Generation: 60  String: I &}ve GeeksforGeek
+        Fitness: 3
+Generation: 61  String: I &}ve GeeksforGeek
+        Fitness: 3
+Generation: 62  String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 63  String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 64  String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 65  String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 66  String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 67  String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 68  String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 69  String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 70  String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 71  String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 72  String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 73  String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 74  String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 75  String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 76  String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 77  String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 78  String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 79  String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 80  String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 81  String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 82  String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 83  String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 84  String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 85  String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 86  String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 87  String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 88  String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 89  String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 90  String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 91  String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 92  String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 93  String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 94  String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 95  String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 96  String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 97  String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 98  String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 99  String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 100 String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 101 String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 102 String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 103 String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 104 String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 105 String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 106 String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 107 String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 108 String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 109 String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 110 String: I &ove GeeksforGeek1    Fitness: 2
+Generation: 111 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 112 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 113 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 114 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 115 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 116 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 117 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 118 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 119 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 120 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 121 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 122 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 123 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 124 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 125 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 126 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 127 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 128 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 129 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 130 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 131 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 132 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 133 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 134 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 135 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 136 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 137 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 138 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 139 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 140 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 141 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 142 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 143 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 144 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 145 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 146 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 147 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 148 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 149 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 150 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 151 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 152 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 153 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 154 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 155 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 156 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 157 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 158 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 159 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 160 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 161 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 162 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 163 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 164 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 165 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 166 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 167 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 168 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 169 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 170 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 171 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 172 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 173 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 174 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 175 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 176 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 177 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 178 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 179 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 180 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 181 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 182 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 183 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 184 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 185 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 186 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 187 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 188 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 189 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 190 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 191 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 192 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 193 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 194 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 195 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 196 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 197 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 198 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 199 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 200 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 201 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 202 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 203 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 204 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 205 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 206 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 207 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 208 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 209 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 210 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 211 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 212 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 213 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 214 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 215 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 216 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 217 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 218 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 219 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 220 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 221 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 222 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 223 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 224 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 225 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 226 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 227 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 228 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 229 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 230 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 231 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 232 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 233 String: I love GeeksforGeek
+        Fitness: 1
+Generation: 234 String: I love GeeksforGeeks    Fitness: 0
